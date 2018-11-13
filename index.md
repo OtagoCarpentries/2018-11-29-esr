@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "FIXME"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "ESR Christchurch Science Centre - Kawakawa Room - 27 Creyke Rd, Ilam, Christchurch 8041"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "ESR Christchurch Science Centre - Kawakawa Room "        # brief name of host site without address (e.g., "Euphoric State University")
+address: "27 Creyke Rd, Ilam, Christchurch 8041"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "nz"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-43.5225534,172.5866404"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
